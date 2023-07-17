@@ -115,6 +115,6 @@ AWS account
 
 <br>
 
-If you made it this far, thank you for reading :tada: ! Here's something similar in Digital Ocean I did a while ago if you want to take a **[look](https://github.com/srujankarthik/DevOps/tree/main/05-exercise-cloud-IaaS-project)**
+If you made it this far, thank you for reading :tada:! Here's something similar in Digital Ocean I did a while ago if you want to take a **[look](https://github.com/srujankarthik/DevOps/tree/main/05-exercise-cloud-IaaS-project)**
 
 <br>
